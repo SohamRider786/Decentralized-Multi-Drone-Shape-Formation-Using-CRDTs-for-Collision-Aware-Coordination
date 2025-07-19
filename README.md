@@ -33,7 +33,7 @@ This project simulates a **decentralized swarm of drones** transitioning from an
 
 ## 📂 Project Structure
 
-.
+.  
 ├── main.cpp # C++ simulation entry point  
 ├── drone.hpp # Drone class logic and threading  
 ├── drone_positions.csv # Output: final positions of all drones  
